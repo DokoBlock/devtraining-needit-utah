@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "6a392db743c5211017b739603ab8f20c": {
+        "inputData": null,
+        "sortCategoriesArray": null
+    },
+    "eebfe69877de9110960ced43ba5a99ec": {
+        "relatedItemSysids": null,
+        "relatedItemData": null
+    },
+    "6de5e4974343611017b739603ab8f2c1": {
+        "relatedItemSysids": null,
+        "relatedItemCategorySysId": null,
+        "allNodes": null
+    },
+    "029f04e053610110ac9bddeeff7b1294": {
+        "inputTable": "task",
+        "inputSysId": "56c940b6f8b6021008dd9cfea425acbd",
+        "inputQuery": "",
+        "forcedViewName": "",
+        "detailsContext": "",
+        "activityLogs": "",
+        "inputExtraParams": "",
+        "screen": "",
+        "fields": "",
+        "userPrefs": "",
+        "selectedTabIndex": "",
+        "inputActionLayoutId": "",
+        "shouldDisplayFormErrorsAsPageAlerts": false,
+        "shouldSuppressGlobalEvents": false
+    }
+}</macroponent_config>
+        <screen display_value="NeedIt Admin home">8431b41b83951210078f71d6feaad325</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 09:52:29</sys_created_on>
+        <sys_id>0031b41b83951210078f71d6feaad328</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_0031b41b83951210078f71d6feaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 07:14:11</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
